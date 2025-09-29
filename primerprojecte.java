@@ -1,0 +1,2 @@
+//primer projecte
+hola amigos
